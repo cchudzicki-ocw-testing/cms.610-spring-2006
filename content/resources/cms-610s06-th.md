@@ -9,7 +9,9 @@ image_metadata:
     (Photo courtesy of [Jon Jordan](http://www.flickr.com/photos/jontintinjordan/).)
   credit: ''
   image-alt: Playing with a handheld video game controller.
+learning_resource_types: []
 resourcetype: Image
 title: cms-610s06-th.jpg
+type: OCWImage
 uid: 522a7562-4003-b23e-8fbd-bf33fd898eb0
 ---
