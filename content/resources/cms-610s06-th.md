@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Playing with a handheld video game controller.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: cms-610s06-th.jpg
 uid: 522a7562-4003-b23e-8fbd-bf33fd898eb0
