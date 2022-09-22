@@ -5,6 +5,7 @@ file: /courses/cms-610-media-industries-and-systems-spring-2006/50fa40cef3706a39
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
